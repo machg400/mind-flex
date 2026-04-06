@@ -387,9 +387,9 @@ const MindFlexWebsite = () => {
                   Company News
                 </h3>
                 <ul className="space-y-2" style={{ color: colors.lightText }}>
-                  <li><a href="" className="hover:text-amber-400 transition-colors text-sm">Latest Updates</a></li>
-                  <li><a href="" className="hover:text-amber-400 transition-colors text-sm">Press Releases</a></li>
-                  <li><a href="" className="hover:text-amber-400 transition-colors text-sm">Blog</a></li>
+                  <li><a href="index.html" className="hover:text-amber-400 transition-colors text-sm">Latest Updates</a></li>
+                  <li><a href="index.html" className="hover:text-amber-400 transition-colors text-sm">Press Releases</a></li>
+                  <li><a href="index.html" className="hover:text-amber-400 transition-colors text-sm">Blog</a></li>
                 </ul>
               </div>
 
